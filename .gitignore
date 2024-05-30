@@ -2,8 +2,5 @@ __pycache__/
 *.py[cod]
 *$py.class
 .env
-credentials.json
-token.json
 .idea/
 .venv/
-/credentials.json
