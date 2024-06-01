@@ -68,7 +68,7 @@ inquiry_resolution = Task(
         "leaving no questions unanswered, and maintain a helpful and friendly "
         "tone throughout."
     ),
-    tools=[docs_scrape_tool],
+    tools=[SerperDevTool],
     agent=support_agent,
 )
 
