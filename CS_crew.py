@@ -1,7 +1,7 @@
 import warnings
 from crewai import Agent, Task, Crew
 import os
-from crewai_tools import SerperDevTool, ScrapeWebsiteTool, WebsiteSearchTool
+from crewai_tools import SerperDevTool, ScrapeWebsiteTool
 from IPython.display import Markdown
 
 warnings.filterwarnings('ignore')
